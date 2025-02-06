@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": "cc61",
+      "name": "Sachin D R",
+      "email": "sachindrhsn@gmail.com",
+      "phone": "08971790669",
+      "role": "staf"
+    },
+    {
+      "id": "709d",
+      "name": "Sachin D R 12",
+      "email": "sachindrhsn@gmail.com",
+      "phone": "08971790669",
+      "role": "admin"
+    },
+    {
+      "id": "4f92",
+      "name": "Sachin D R",
+      "email": "sachindrhsn@gmail.com",
+      "phone": "08971790669",
+      "role": "staff"
+    }
+  ]
+}
